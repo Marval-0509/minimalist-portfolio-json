@@ -39,10 +39,8 @@
       "url": "https://atos.net/es/espana",
       "startDate": "2024-04-01",
       "endDate": "2024-05-30",
-      "summary": "Work and training both blended and face-to-face with different  groups variable not only in their size but also in their functions.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Work and training both blended and face-to-face with different groups variable not only in their size but also in their functions.",
+      "highlights": ["Started the company"]
     },
     {
       "name": "Papa-Jons",
@@ -51,162 +49,74 @@
       "startDate": "2024-06-07",
       "endDate": "2024-07-14",
       "summary": "Pizza making, customer service, collection of bills and friendly service with clients.",
-      "highlights": [
-        "Cooking"
-      ]
-    },
-{
-      "name": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": ["Cooking"]
     }
   ],
   "references": [
-    {
-      "name": "",
-      "type": "",
-      "url": "",
-      "position": "",
-      "contact": [
-        "Phone: ",
-        "Email: "
-      ]
-    },
     {
       "name": "Mario García",
       "type": "Professional Reference",
       "url": "https://www.linkedin.com/in/mario-garc%C3%ADa-mata-6493b832a/",
       "position": "Junior Developer",
-      "contact": [
-        "Phone: +34 722681154",
-        "Email: mariogarciamata2005@gmail.com"
-      ]
+      "contact": ["Phone: +34 722681154", "Email: mariogarciamata2005@gmail.com"]
     }
   ],
-  "volunteer": [{
-    "organization": "",
-    "position": "",
-    "url": "",
-    "startDate": "",
-    "endDate": "",
-    "summary": ",
-    "highlights": [
-      "Awarded "
-    ]
-  }],
-  "education": [{
-    "institution": "Santa Juaquina de Vedruna",
-    "url": "https://vedrunasagradafamilia.org/",
-    "area": "Software Technician",
-    "studyType": "Vocational Studies",
-    "startDate": "2023-09-01",
-    "endDate": "2025-05-15",
-    "score": "7.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "",
-    "date": "",
-    "awarder": "",
-    "summary": ""
-  }],
-  "certificates": [{
-    "name": "",
-    "date": "",
-    "issuer": "",
-    "url": ""
-  }],
-  "publications": [{
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "url": ""
-    "summary": ""
-  }],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Awarded"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Santa Juaquina de Vedruna",
+      "url": "https://vedrunasagradafamilia.org/",
+      "area": "Software Technician",
+      "studyType": "Vocational Studies",
+      "startDate": "2023-09-01",
+      "endDate": "2025-05-15",
+      "score": "7.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
       "name": "HTML",
       "level": "Starter",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
+      "keywords": ["Web development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Starter",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Web development", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Junior",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-         ""
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        ""
-      ]
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "MySQL",
       "level": "Junior",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
+      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
     },
     {
       "name": "Git",
       "level": "Starter",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
+      "keywords": ["Version control", "Colaboración", "Source code"]
     },
     {
       "name": "GitHub",
       "level": "Starter",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        ""
-      ]
+      "keywords": ["Version control", "Collaboration", "Source code", "Git"]
     }
   ],
   "languages": [
@@ -219,75 +129,11 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Sports",
-    "keywords": [
-      "Gym",
-      "Football"
-    ]
-  }],
-  "projects": [
+  "interests": [
     {
-      "name": "",
-      "isActive": true,
-      "description": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "url": ""
-    },
-    {
-      "name": "",
-      "isActive": true,
-      "description": "",
-      "highlights": [
-        " ",
-        "",
-        " "
-      ],
-      "url": ""
-    },
-    {
-      "name": "",
-      "isActive": true,
-      "description": "",
-      "highlights": [
-        "",
-        " "
-      ],
-      "url": ""
-    },
-    {
-      "name": "",
-      "isActive": true,
-      "description": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "url": "",
-      "github": ""
-    },
-    {
-      "name": "",
-      "isActive": true,
-      "description": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "url": "",
-      "github": ""
-    },
-    {
-      "name": "",
-      "description": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "url": ""
+      "name": "Sports",
+      "keywords": ["Gym", "Football"]
     }
-  ]
+  ],
+  "projects": []
 }
