@@ -6,7 +6,7 @@
     "email": "mario.garcia@a.vedrunasevillasj.es",
     "phone": "+34 722681154",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development communicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
     "location": {
       "address": "Avenida de las Ciencias, nº 15, 4ºB",
       "postalCode": "41020",
@@ -37,39 +37,80 @@
       "name": "Atos-Eviden",
       "position": "Internship",
       "url": "https://atos.net/es/espana",
-      "startDate": "2024-04-01",
-      "endDate": "2024-05-30",
-      "summary": "Work and training both blended and face-to-face with different groups variable not only in their size but also in their functions.",
+      "startDate": "April 2024",
+      "endDate": "May 2024",
+      "summary": "Work and training both blended and face-to-face with different  groups variable not only in their size but also in their functions.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Papa-Jons",
-      "position": "Kitchen assistant",
-      "url": "https://www.papajohns.es/",
-      "startDate": "2024-06-03",
-      "endDate": "2024-07-14",
-      "summary": "Pizza making, customer service, collection of bills and friendly service with clients.",
+      "position": "Lead Frontend Architect",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2016-06-01",
+      "endDate": "2022-09-01",
+      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Hubii",
+      "position": "Senior FrontEnd Developer",
+      "startDate": "2011-03-01",
+      "endDate": "2016-05-01",
+      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "education": [
+  "references": [
     {
-      "institution": "Santa Joaquina de Vedruna",
-      "url": "https://vedrunasagradafamilia.org/",
-      "area": "Software Technician",
-      "studyType": "Vocational Studies",
-      "startDate": "2023-09-01",
-      "endDate": "2024-05-2025",
-      "score": "7.0",
-      "courses": [
-        "DB1101 - Basic SQL"
+      "name": "Joaquin Borrego Fernández",
+      "type": "Academic Reference",
+      "url": "https://twitch.tv/midudev",
+      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "contact": [
+        "Phone: +34611223345",
+        "Email: VY5q8@example.com"
+      ]
+    },
+    {
+      "name": "Alejandro Téllez",
+      "type": "Professional Reference",
+      "url": "https://twitch.tv/midudev",
+      "position": "Analyst at NTT DATA.",
+      "contact": [
+        "Phone: +34611223344",
+        "Email: Va5q8@example.com"
       ]
     }
   ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universitat Oberta de Catalunya",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Software Engineer",
+    "studyType": "Bachelor",
+    "startDate": "2003-01-01",
+    "endDate": "2009-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
